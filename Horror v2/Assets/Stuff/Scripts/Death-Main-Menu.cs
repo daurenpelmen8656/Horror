@@ -7,7 +7,7 @@ public class MainMenu : MonoBehaviour
 {
     public void B_LoadScene()
     {
-        SceneManager.LoadScene("Game");
+        SceneManager.LoadScene("og");
     }
 
 
